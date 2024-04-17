@@ -1,2 +1,8 @@
 # ffmpeg_png2mp4
-Convert a large number of pngs to mp4
+Convert large amounts of png to mp4
+
+Image extensions can be changed
+ex:jpg
+
+Video extensions can be changed
+ex:avi
